@@ -1,5 +1,5 @@
 # discord-spam-bot
-https://forthebadge.com/images/badges/made-with-python.svg
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 Spams in discord automatically. Good for level up in some discord servers.
 
